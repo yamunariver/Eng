@@ -3,3 +3,4 @@
 ## it differs అది భిన్నంగా ఉంటుంది
 ## concise (a concise account of the country's history)
 ## evicted బహిష్కరించారు (Which two factors can cause an Azure Spot instance to be evicted?)
+## persistent నిరంతర
