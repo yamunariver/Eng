@@ -5,5 +5,6 @@
 ## evicted బహిష్కరించారు (Which two factors can cause an Azure Spot instance to be evicted?)
 ## persistent నిరంతర
 ## delegated అప్పగించారు
+## expedite వేగవంతం
 
 ## I think you see the picture that I'm trying to paint
